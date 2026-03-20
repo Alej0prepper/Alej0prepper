@@ -2,7 +2,10 @@
 
 ## GitHub Analytics
 
-
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alej0prepper&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alej0prepper&layout=compact&theme=tokyonight" />
+</p>
 
 <!--
 **Alej0prepper/Alej0prepper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
